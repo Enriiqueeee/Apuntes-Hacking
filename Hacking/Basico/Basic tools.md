@@ -1,12 +1,12 @@
 
 
-| **Command** | **Description**                       |                 |
-| ----------- | ------------------------------------- | --------------- |
-| **General** |                                       | **Uso**         |
-| Ping        | Ver si un sistema esta levantado o no | ping -c1 < IP > |
-| whoami      | Ver mi usuario                        | whoami          |
-| cat         | Ver el contenido de un fichero        | cat < fichero > |
-|             |                                       |                 |
+| **Command**                    | **Description**                       |                 |
+| ------------------------------ | ------------------------------------- | --------------- |
+| **General**                    |                                       | **Uso**         |
+| Ping                           | Ver si un sistema esta levantado o no | ping -c1 < IP > |
+| whoami                         | Ver mi usuario                        | whoami          |
+| cat                            | Ver el contenido de un fichero        | cat < fichero > |
+| find / -perm -4000 2>/dev/null | Para escalada de privilegios          |                 |
 
 
 ### Directorios
