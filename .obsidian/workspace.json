@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Hacking/Fuerza Bruta/Hydra.md",
+                "file": "README.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Hydra"
+              "title": "README"
             }
           }
         ]
@@ -183,8 +183,10 @@
       "bases:Crear nueva base": false
     }
   },
-  "active": "372b372735f89bd6",
+  "active": "63d3cdf89bf80b98",
   "lastOpenFiles": [
+    "Hacking/Fuerza Bruta/Hydra.md",
+    "README.md",
     "Hacking/Fuerza Bruta",
     "Hacking/Basico/Curl.md",
     "Hacking/Basico/Impacket.md",
@@ -200,7 +202,6 @@
     "Hacking/Teoria/SQL Injection.md",
     "Capturas/Pasted image 20260705143428.png",
     "Capturas/Pasted image 20260705143330.png",
-    "Hacking/Fuerza Bruta/Hydra.md",
     "Capturas/Pasted image 20260705143047.png",
     "Hacking/Web/Enumeracion Subdominios/dnsrecon.md",
     "Capturas/Pasted image 20260705142833.png",
@@ -225,7 +226,6 @@
     "Hacking/Apuntes",
     "Hacking/Basico",
     "Bienvenido.md",
-    "Hacking/Web",
-    "Hacking"
+    "Hacking/Web"
   ]
 }
