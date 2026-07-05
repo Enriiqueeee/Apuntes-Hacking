@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Hacking/Web/WordPress.md",
+                "file": "Hacking/Web/Gobuster.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "WordPress"
+              "title": "Gobuster"
             }
           }
         ]
@@ -185,8 +185,13 @@
   },
   "active": "63d3cdf89bf80b98",
   "lastOpenFiles": [
-    "Hacking/Web/WhatWeb.md",
+    "Capturas/Pasted image 20260705190823.png",
+    "Hacking/Web/WPSCAN.md",
+    "Capturas/Pasted image 20260705190759.png",
+    "Capturas/Pasted image 20260705190618.png",
+    "Capturas/Pasted image 20260705190551.png",
     "Hacking/Web/WordPress.md",
+    "Hacking/Web/WhatWeb.md",
     "Capturas/Pasted image 20260705163017.png",
     "Hacking/Basico/Basic tools.md",
     "Hacking/Fuerza Bruta/Hydra.md",
@@ -197,9 +202,6 @@
     "Capturas/Pasted image 20260705160443.png",
     "Capturas/Pasted image 20260705155810.png",
     "Capturas/Pasted image 20260705155757.png",
-    "Capturas/Pasted image 20260705155720.png",
-    "Capturas/Pasted image 20260705154752.png",
-    "Capturas/Pasted image 20260705154724.png",
     "README.md",
     "Hacking/Fuerza Bruta",
     "Hacking/Basico/Curl.md",
@@ -221,7 +223,6 @@
     "Maquinas/Dockerlabs",
     "Maquinas",
     "Hacking/Utilidades",
-    "Hacking/Web/WPSCAN.md",
     "Hacking/Web/Gobuster.md",
     "Capturas",
     "Hacking/Teoria",
