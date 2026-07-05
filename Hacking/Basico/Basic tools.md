@@ -27,3 +27,7 @@ También existe binario de netcat
 | ppp    | 3000   | utilizado en el desarrollo de software para ejecutar servidores web y aplicaciones locales |
 |        |        |                                                                                            |
 
+
+#### CMS
+Gestor de contenidos para la creación y administración de contenidos digitales.
+Ejemplo seria WordPress

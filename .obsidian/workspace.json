@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "Hacking/Web/WordPress.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "README"
+              "title": "WordPress"
             }
           }
         ]
@@ -185,29 +185,31 @@
   },
   "active": "63d3cdf89bf80b98",
   "lastOpenFiles": [
+    "Hacking/Web/WhatWeb.md",
+    "Hacking/Web/WordPress.md",
+    "Capturas/Pasted image 20260705163017.png",
+    "Hacking/Basico/Basic tools.md",
     "Hacking/Fuerza Bruta/Hydra.md",
+    "Capturas/Pasted image 20260705161908.png",
+    "Capturas/Pasted image 20260705161644.png",
+    "Hacking/Basico/Teoría conceptos.md",
+    "Capturas/Pasted image 20260705160516.png",
+    "Capturas/Pasted image 20260705160443.png",
+    "Capturas/Pasted image 20260705155810.png",
+    "Capturas/Pasted image 20260705155757.png",
+    "Capturas/Pasted image 20260705155720.png",
+    "Capturas/Pasted image 20260705154752.png",
+    "Capturas/Pasted image 20260705154724.png",
     "README.md",
     "Hacking/Fuerza Bruta",
     "Hacking/Basico/Curl.md",
     "Hacking/Basico/Impacket.md",
     "Hacking/Basico/Nmap.md",
-    "Hacking/Basico/Teoría conceptos.md",
-    "Hacking/Basico/Basic tools.md",
     "Hacking/Utilidades/Aplicaciones.md",
     "Hacking/Utilidades/Proteger Acceso a información en Servidores Web.md",
-    "Capturas/Pasted image 20260705144932.png",
-    "Capturas/Pasted image 20260705144816.png",
-    "Capturas/Pasted image 20260705144710.png",
-    "Capturas/Pasted image 20260705143705.png",
     "Hacking/Teoria/SQL Injection.md",
-    "Capturas/Pasted image 20260705143428.png",
-    "Capturas/Pasted image 20260705143330.png",
-    "Capturas/Pasted image 20260705143047.png",
     "Hacking/Web/Enumeracion Subdominios/dnsrecon.md",
-    "Capturas/Pasted image 20260705142833.png",
-    "Capturas/Pasted image 20260705142753.png",
     "Hacking/Web/Enumeracion Subdominios/Sublist3r.md",
-    "Capturas/Pasted image 20260705141134.png",
     "Hacking/Web/Enumeracion Subdominios/Subfinder.md",
     "Hacking/Web/Enumeracion Subdominios/Herramientas.md",
     "Hacking/Web/Enumeracion Subdominios",
