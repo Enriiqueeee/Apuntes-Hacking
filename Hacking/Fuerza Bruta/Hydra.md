@@ -13,3 +13,6 @@ hydra -l admin -P /usr/share/wordlists/rockyou.txt 172.17.0.2 -s 3000 http-post-
 | -p        | unica password             |
 | -P        | Listado de password        |
 | -s        | Para seleccionar el puerto |
+
+##### FTP
+![[Pasted image 20260705143047.png]]

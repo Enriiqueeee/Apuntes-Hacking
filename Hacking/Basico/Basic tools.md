@@ -1,19 +1,23 @@
+Existe una webshell en el propio kali que lo veremos de la siguiente forma
+![[Pasted image 20260705143330.png|350]]
+También existe binario de netcat
+![[Pasted image 20260705143428.png]]
 
 
-| **Command**                    | **Description**                       |                 |
+| **Command**                    | **Description**                       | **Uso**         |
 | ------------------------------ | ------------------------------------- | --------------- |
-| **General**                    |                                       | **Uso**         |
 | Ping                           | Ver si un sistema esta levantado o no | ping -c1 < IP > |
 | whoami                         | Ver mi usuario                        | whoami          |
 | cat                            | Ver el contenido de un fichero        | cat < fichero > |
 | find / -perm -4000 2>/dev/null | Para escalada de privilegios          |                 |
 
 
+
 ### Directorios
 
-| /opt | destinado a la instalación de **paquetes de software adicionales** |
+| ruta | descripcion                                                        |
 | ---- | ------------------------------------------------------------------ |
-|      |                                                                    |
+| /opt | destinado a la instalación de **paquetes de software adicionales** |
 
 
 ### Puertos
@@ -22,3 +26,4 @@
 | ------ | ------ | ------------------------------------------------------------------------------------------ |
 | ppp    | 3000   | utilizado en el desarrollo de software para ejecutar servidores web y aplicaciones locales |
 |        |        |                                                                                            |
+
