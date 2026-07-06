@@ -31,3 +31,9 @@ También existe binario de netcat
 #### CMS
 Gestor de contenidos para la creación y administración de contenidos digitales.
 Ejemplo seria WordPress
+
+
+
+#### Shell
+Si estamos en una shell de meterpreter con el siguiente comando podremos ver una shell interactiva
+![[Pasted image 20260707004438.png]]
