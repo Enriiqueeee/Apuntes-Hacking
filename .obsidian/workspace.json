@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Hacking/Web/Gobuster.md",
+                "file": "Hacking/Web/Joomla.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Gobuster"
+              "title": "Joomla"
             }
           }
         ]
@@ -185,28 +185,31 @@
   },
   "active": "63d3cdf89bf80b98",
   "lastOpenFiles": [
-    "Capturas/Pasted image 20260705190823.png",
-    "Hacking/Web/WPSCAN.md",
-    "Capturas/Pasted image 20260705190759.png",
-    "Capturas/Pasted image 20260705190618.png",
-    "Capturas/Pasted image 20260705190551.png",
-    "Hacking/Web/WordPress.md",
-    "Hacking/Web/WhatWeb.md",
-    "Capturas/Pasted image 20260705163017.png",
-    "Hacking/Basico/Basic tools.md",
-    "Hacking/Fuerza Bruta/Hydra.md",
-    "Capturas/Pasted image 20260705161908.png",
-    "Capturas/Pasted image 20260705161644.png",
+    "Capturas/Pasted image 20260707001444.png",
+    "Hacking/Web/Drupal.md",
+    "Hacking/Web/Joomla.md",
+    "Capturas/Pasted image 20260707000732.png",
+    "Capturas/Pasted image 20260707000601.png",
+    "Capturas/Pasted image 20260707000520.png",
+    "Capturas/Pasted image 20260707000507.png",
+    "Capturas/Pasted image 20260707000305.png",
     "Hacking/Basico/Teoría conceptos.md",
-    "Capturas/Pasted image 20260705160516.png",
-    "Capturas/Pasted image 20260705160443.png",
-    "Capturas/Pasted image 20260705155810.png",
-    "Capturas/Pasted image 20260705155757.png",
+    "Capturas/Pasted image 20260706235913.png",
+    "Capturas/Pasted image 20260706235822.png",
+    "Hacking/Basico/Basic tools.md",
+    "Hacking/Web/WordPress.md",
+    "Capturas/Pasted image 20260706235112.png",
+    "Capturas/Pasted image 20260706234729.png",
+    "Capturas/Pasted image 20260706234626.png",
+    "Hacking/Basico/Nmap.md",
+    "Hacking/Web/Gobuster.md",
+    "Hacking/Web/WPSCAN.md",
+    "Hacking/Web/WhatWeb.md",
+    "Hacking/Fuerza Bruta/Hydra.md",
     "README.md",
     "Hacking/Fuerza Bruta",
     "Hacking/Basico/Curl.md",
     "Hacking/Basico/Impacket.md",
-    "Hacking/Basico/Nmap.md",
     "Hacking/Utilidades/Aplicaciones.md",
     "Hacking/Utilidades/Proteger Acceso a información en Servidores Web.md",
     "Hacking/Teoria/SQL Injection.md",
@@ -223,12 +226,10 @@
     "Maquinas/Dockerlabs",
     "Maquinas",
     "Hacking/Utilidades",
-    "Hacking/Web/Gobuster.md",
     "Capturas",
     "Hacking/Teoria",
     "Hacking/Apuntes",
     "Hacking/Basico",
-    "Bienvenido.md",
     "Hacking/Web"
   ]
 }

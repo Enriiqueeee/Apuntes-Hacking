@@ -26,3 +26,16 @@ Primero tenemos que instalarlo
 ![[Pasted image 20260705160443.png]]
 Luego lo iniciamos y vemos que esta activo
 ![[Pasted image 20260705160516.png]]
+
+
+
+###  Navegador parámetros
+Si en un navegador por ejemplo en una academia agregamos el parámetro /?s=" lo que sea "
+	Serviría para hacer búsquedas
+Lo que podríamos hacer es por ejemplo copiar el nombre de una lección
+![[Pasted image 20260706235822.png]]
+y usamos el parámetro /s="nombre de la lección" veremos todas las entradas
+![[Pasted image 20260706235913.png]]
+y vemos que nos encuentra varias y si entramos podemos ver el contenido de la lección huérfanas
+Para corregirlo en WordPress tendremos que elegir en Temas los huérfanos y eliminar la correcta
+
