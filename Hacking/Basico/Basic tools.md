@@ -1,3 +1,9 @@
+
+
+Buscar binarios con SUID
+find / -perm -4000 -type f 2>/dev/null | xargs ls -la
+
+
 Existe una webshell en el propio kali que lo veremos de la siguiente forma
 ![[Pasted image 20260705143330.png|350]]
 También existe binario de netcat
@@ -37,3 +43,14 @@ Ejemplo seria WordPress
 #### Shell
 Si estamos en una shell de meterpreter con el siguiente comando podremos ver una shell interactiva
 ![[Pasted image 20260707004438.png]]
+
+
+#### Samba
+Para poder acceder como anonymous usamos el siguiente comando
+└─$ smbclient -L //172.17.0.2 -N
+![[Pasted image 20260708010834.png]]
+Enumerar usuarios de samba
+```
+enum4linux -a 172.17.0.2
+```
+
