@@ -39,3 +39,10 @@ y usamos el parámetro /s="nombre de la lección" veremos todas las entradas
 y vemos que nos encuentra varias y si entramos podemos ver el contenido de la lección huérfanas
 Para corregirlo en WordPress tendremos que elegir en Temas los huérfanos y eliminar la correcta
 
+
+#### Impacket
+Podemos levantar un recurso compartido
+![[Pasted image 20260705143705.png]]
+recurso --> nombre del recurso
+$(pwd) --> que contenga lo del directorio actual
+-smb2support --> para poder aumentar compatibilidad

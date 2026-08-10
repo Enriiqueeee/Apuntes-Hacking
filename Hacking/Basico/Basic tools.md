@@ -1,13 +1,24 @@
 
+## Enumeración local: El ritual que debes repetir siempre
 
-Buscar binarios con SUID
-find / -perm -4000 -type f 2>/dev/null | xargs ls -la
+Ya tienes **shell**. Ahora toca **enumeración local**: mirar desde dentro del sistema igual que mirabas desde fuera con **Nmap**.
+
+Antes de explotar nada, responde preguntas: qué **usuario** soy, a qué **grupos** pertenezco, qué comandos puedo ejecutar como **root**, qué **procesos** corren y dónde puede haber **credenciales**.
+
+La **enumeración local** no es memorizar comandos. Es una actitud de detective: entender el sistema antes de tocarlo.
+
+- Identidad: whoami, id, groups.
+- Usuarios: cat /etc/passwd, ls /home.
+- Procesos: ps aux.
+- Conexiones: netstat -tulpn o ss -tulpn.
+- Capacidades: getcap -r / 2>/dev/null.
+- Buscar binarios con SUID: find / -perm -4000 -type f 2>/dev/null | xargs ls -la
 
 
 Existe una webshell en el propio kali que lo veremos de la siguiente forma
 ![[Pasted image 20260705143330.png|350]]
 También existe binario de netcat
-![[Pasted image 20260705143428.png]]
+![[Pasted image 20260705143428.png|404]]
 
 
 | **Command**                    | **Description**                       | **Uso**         |
@@ -16,6 +27,7 @@ También existe binario de netcat
 | whoami                         | Ver mi usuario                        | whoami          |
 | cat                            | Ver el contenido de un fichero        | cat < fichero > |
 | find / -perm -4000 2>/dev/null | Para escalada de privilegios          |                 |
+
 
 
 
